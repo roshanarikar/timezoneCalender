@@ -5,7 +5,7 @@ import { Timezone } from './components/Timezone/Timezone';
 function App() {
 
   return (
-    <div>
+    <div className='App'>
      <Date/>
      <Timezone/>
     </div>
