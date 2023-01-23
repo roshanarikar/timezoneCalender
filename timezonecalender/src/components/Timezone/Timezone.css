@@ -1,0 +1,20 @@
+.dayBox{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+    height: 80px;
+}
+select{
+    width: 95%;
+    margin-left: 20px;
+}
+.day{
+    width: 70px;
+    padding-right: 20px;
+    padding-left: 10px;
+    border : 1px solid black
+}
+.timeBox{
+    display: flex;
+    flex-direction: row;
+}
