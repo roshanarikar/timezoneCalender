@@ -1,0 +1,22 @@
+#dateDiv{
+    display: flex;
+    flex-direction: row;
+    gap: 550px;
+    border: 1px solid black;
+    height: 70px;
+}
+
+#dateDiv > div{
+    font-size: 25px;
+    width: 150px;
+    margin-top: 15px;
+}
+button{
+    margin-left: 5px;
+    border: none;
+    width: 150px;
+    height: 45px;
+    font-size: 20px;
+    color: rgb(7, 176, 176);
+    background: none;
+}
